@@ -373,7 +373,7 @@ Official Channel :- https://t.me/+Wkgy3gDrc6IzNDRl
 @bot.message_handler(commands=['start'])
 def welcome_start(message):
     user_name = message.from_user.first_name
-    response = f'''❄️ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴘʀᴇᴍɪᴜᴍ ᴅᴅᴏs ʙᴏᴛ, {user_name}! ᴛʜɪs ɪs ʜɪɢʜ ǫᴜᴀʟɪᴛʏ sᴇʀᴠᴇʀ ʙᴀsᴇᴅ ᴅᴅᴏs. ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇss.
+    response = f'''❄️Welcome to @RONIT_IN ka Premium DDOS bot, {user_name}! This is high quality DDOS bot. ᴛᴏ ɢᴇᴛ ᴀᴄᴄᴇss.
 🤖Try To Run This Command : /help 
 ✅BUY :- @RONIT_IN'''
     bot.reply_to(message, response)
@@ -395,7 +395,7 @@ def welcome_plan(message):
     response = f'''{user_name}, Brother Only 1 Plan Is Powerfull Then Any Other Ddos !!:
 
 Vip 🌟 :
--> Attack Time : 300 (S)
+-> Attack Time : 600 (S)
 > After Attack Limit : 10 sec
 -> Concurrents Attack : 5
 
